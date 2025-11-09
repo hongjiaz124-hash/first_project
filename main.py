@@ -10,3 +10,4 @@ if a == 10:
 #push(處存)
 print("hello")
 print("hi")
+print("hello")
