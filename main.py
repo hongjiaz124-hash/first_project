@@ -11,3 +11,4 @@ if a == 10:
 print("hello")
 print("hi")
 print("hello")
+c=6  
