@@ -6,3 +6,5 @@ if a == 10:
     b = a + 1
     print(b)
     print("hello")
+#pull(加載最新版)
+#push(處存)
