@@ -9,3 +9,4 @@ if a == 10:
 #pull(加載最新版)
 #push(處存)
 print("hello")
+print("hi")
