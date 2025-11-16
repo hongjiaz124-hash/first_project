@@ -13,3 +13,4 @@ print("hi")
 print("hello")
 c=6 
 print(1)
+print(2)
